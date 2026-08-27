@@ -64,7 +64,7 @@ img { display: block; max-width: 100%; }
 
 .hero {
   height: 449px;
-  background: url("../assets/Figma_top.jpg") center top / cover no-repeat;
+  background: url("../assets/Figma_top.webp") center top / cover no-repeat;
   position: relative;
   color: #fff;
 }
